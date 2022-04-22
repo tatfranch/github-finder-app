@@ -1,3 +1,3 @@
-This is a React App that uses an API to fetch Github users and display their information.
+This is a React App that uses the GitHub API to fetch its users and display their information.
 
-This project is under construction at the moment. I will keep pushing my code with all the progress.
+![](src/images/capture.png)
